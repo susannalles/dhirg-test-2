@@ -9,18 +9,18 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://eugestumm.github.io
+url: https://susannalles.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /CollectionBuilder-Remix
+baseurl: /dhirg-test-2
 # location of code, the full url to your github repository
-source-code: https://github.com/eugestumm/CollectionBuilder-Remix
+source-code: https://github.com/susannalles/dhirg-test-2
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: 'CollectionBuilder-Remix: Collection Sample'
+title: 'CollectionBuilder-Remix'
 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Based on Gender Inclusive Spanish Digital Archive
